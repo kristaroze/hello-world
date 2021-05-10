@@ -1,2 +1,2 @@
 # hello-world
-1st repository
+Hi, my name is Krista and I'm a researcher at the University of Iowa.
